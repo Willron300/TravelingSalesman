@@ -12,7 +12,7 @@ public class FunctionPlotter extends JFrame {
     private int y = 500;
 
     public FunctionPlotter() {
-
+// hasdjhajsd#asdo tesdsd
         super("FunctionPlotter");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setResizable(false);
